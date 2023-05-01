@@ -7,7 +7,7 @@ Bienvenidos a mi repositorio de resolución de trabajos prácticos individuales 
 Siendo resuelto por el alumno:
 - Acosta
 - Tomás
-- **N° lejago**: 15605-05
+- **N° legajo**: 15605-05
 
 ## *Formato de entrega*
 
