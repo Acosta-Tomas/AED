@@ -1,2 +1,9 @@
 # Ignorar ejecutables
 *.exe
+
+# Ignorar .vscode settings
+# !.vscode/settings.json ejemplo para habilitar algun archivo en especifico
+.vscode/**/*
+
+*.txt
+!Test[0-9].txt
